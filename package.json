@@ -4,7 +4,7 @@
     "description": "Mock server API",
     "main": "server.js",
     "scripts": {
-      "start": "node server"
+      "start": "node server.js"
     },
     "author": "Motoblock",    
     "devDependencies": {
