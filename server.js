@@ -1,5 +1,5 @@
 const jsonServer = require('json-server');
-const catalog = require('./db/catData.json');
+const catalog = require('./db/catdata.json');
 
 const PORT = 3000;
 
