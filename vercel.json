@@ -6,7 +6,7 @@
         "use": "@vercel/node",
         "config": {
           "includeFiles": [
-            "db/catdata.json",
+            "db/catalog.json",
             "public/**/*"
           ]
         }
